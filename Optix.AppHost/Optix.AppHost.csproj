@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <IsAspireHost>true</IsAspireHost>
+    <UserSecretsId>d751d491-6cfa-4dac-a51d-e2562e12c444</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspire.Hosting.AppHost" Version="8.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Optix.Presentation.WebBlazor\Optix.Presentation.WebBlazor.csproj" />
+    <ProjectReference Include="..\Optix.Service.ServiceAPI\Optix.Service.ServiceAPI.csproj" />
+  </ItemGroup>
+
+</Project>

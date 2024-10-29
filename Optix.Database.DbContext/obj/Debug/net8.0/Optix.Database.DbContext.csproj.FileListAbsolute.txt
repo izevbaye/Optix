@@ -1,0 +1,15 @@
+C:\Users\ehioz\source\repos\Optix\Optix.Database.DbContext\obj\Debug\net8.0\Optix.Database.DbContext.csproj.AssemblyReference.cache
+C:\Users\ehioz\source\repos\Optix\Optix.Database.DbContext\obj\Debug\net8.0\Optix.Database.DbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ehioz\source\repos\Optix\Optix.Database.DbContext\obj\Debug\net8.0\Optix.Database.DbContext.AssemblyInfoInputs.cache
+C:\Users\ehioz\source\repos\Optix\Optix.Database.DbContext\obj\Debug\net8.0\Optix.Database.DbContext.AssemblyInfo.cs
+C:\Users\ehioz\source\repos\Optix\Optix.Database.DbContext\obj\Debug\net8.0\Optix.Database.DbContext.csproj.CoreCompileInputs.cache
+C:\Users\ehioz\source\repos\Optix\Optix.Database.DbContext\obj\Debug\net8.0\Optix.Database.DbContext.sourcelink.json
+C:\Users\ehioz\source\repos\Optix\Optix.Database.DbContext\bin\Debug\net8.0\Optix.Database.DbContext.deps.json
+C:\Users\ehioz\source\repos\Optix\Optix.Database.DbContext\bin\Debug\net8.0\Optix.Database.DbContext.runtimeconfig.json
+C:\Users\ehioz\source\repos\Optix\Optix.Database.DbContext\bin\Debug\net8.0\Optix.Database.DbContext.dll
+C:\Users\ehioz\source\repos\Optix\Optix.Database.DbContext\bin\Debug\net8.0\Optix.Database.DbContext.pdb
+C:\Users\ehioz\source\repos\Optix\Optix.Database.DbContext\obj\Debug\net8.0\Optix.Database.DbContext.dll
+C:\Users\ehioz\source\repos\Optix\Optix.Database.DbContext\obj\Debug\net8.0\refint\Optix.Database.DbContext.dll
+C:\Users\ehioz\source\repos\Optix\Optix.Database.DbContext\obj\Debug\net8.0\Optix.Database.DbContext.pdb
+C:\Users\ehioz\source\repos\Optix\Optix.Database.DbContext\obj\Debug\net8.0\Optix.Database.DbContext.genruntimeconfig.cache
+C:\Users\ehioz\source\repos\Optix\Optix.Database.DbContext\obj\Debug\net8.0\ref\Optix.Database.DbContext.dll

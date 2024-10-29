@@ -1,0 +1,13 @@
+C:\Users\ehioz\source\repos\Optix\Optix.Domain.Library\bin\Debug\net8.0\Optix.Domain.Library.deps.json
+C:\Users\ehioz\source\repos\Optix\Optix.Domain.Library\bin\Debug\net8.0\Optix.Domain.Library.dll
+C:\Users\ehioz\source\repos\Optix\Optix.Domain.Library\bin\Debug\net8.0\Optix.Domain.Library.pdb
+C:\Users\ehioz\source\repos\Optix\Optix.Domain.Library\obj\Debug\net8.0\Optix.Domain.Library.csproj.AssemblyReference.cache
+C:\Users\ehioz\source\repos\Optix\Optix.Domain.Library\obj\Debug\net8.0\Optix.Domain.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ehioz\source\repos\Optix\Optix.Domain.Library\obj\Debug\net8.0\Optix.Domain.Library.AssemblyInfoInputs.cache
+C:\Users\ehioz\source\repos\Optix\Optix.Domain.Library\obj\Debug\net8.0\Optix.Domain.Library.AssemblyInfo.cs
+C:\Users\ehioz\source\repos\Optix\Optix.Domain.Library\obj\Debug\net8.0\Optix.Domain.Library.csproj.CoreCompileInputs.cache
+C:\Users\ehioz\source\repos\Optix\Optix.Domain.Library\obj\Debug\net8.0\Optix.Domain.Library.sourcelink.json
+C:\Users\ehioz\source\repos\Optix\Optix.Domain.Library\obj\Debug\net8.0\Optix.Domain.Library.dll
+C:\Users\ehioz\source\repos\Optix\Optix.Domain.Library\obj\Debug\net8.0\refint\Optix.Domain.Library.dll
+C:\Users\ehioz\source\repos\Optix\Optix.Domain.Library\obj\Debug\net8.0\Optix.Domain.Library.pdb
+C:\Users\ehioz\source\repos\Optix\Optix.Domain.Library\obj\Debug\net8.0\ref\Optix.Domain.Library.dll

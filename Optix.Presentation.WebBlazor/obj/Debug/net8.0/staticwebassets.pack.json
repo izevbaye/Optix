@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ehioz\\source\\repos\\Optix\\Optix.Presentation.WebBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Optix.Presentation.WebBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Optix.Presentation.WebBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ehioz\\source\\repos\\Optix\\Optix.Presentation.WebBlazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\ehioz\\source\\repos\\Optix\\Optix.Presentation.WebBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ehioz\\source\\repos\\Optix\\Optix.Presentation.WebBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ehioz\\source\\repos\\Optix\\Optix.Presentation.WebBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Optix.Presentation.WebBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Optix.Presentation.WebBlazor.props",
+      "PackagePath": "build\\Optix.Presentation.WebBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Optix.Presentation.WebBlazor.props",
+      "PackagePath": "buildMultiTargeting\\Optix.Presentation.WebBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Optix.Presentation.WebBlazor.props",
+      "PackagePath": "buildTransitive\\Optix.Presentation.WebBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
