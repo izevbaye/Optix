@@ -1,0 +1,13 @@
+C:\Users\ehioz\source\repos\Optix\Optix.ServiceDefaults\bin\Debug\net8.0\Optix.ServiceDefaults.deps.json
+C:\Users\ehioz\source\repos\Optix\Optix.ServiceDefaults\bin\Debug\net8.0\Optix.ServiceDefaults.dll
+C:\Users\ehioz\source\repos\Optix\Optix.ServiceDefaults\bin\Debug\net8.0\Optix.ServiceDefaults.pdb
+C:\Users\ehioz\source\repos\Optix\Optix.ServiceDefaults\obj\Debug\net8.0\Optix.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\ehioz\source\repos\Optix\Optix.ServiceDefaults\obj\Debug\net8.0\Optix.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ehioz\source\repos\Optix\Optix.ServiceDefaults\obj\Debug\net8.0\Optix.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\ehioz\source\repos\Optix\Optix.ServiceDefaults\obj\Debug\net8.0\Optix.ServiceDefaults.AssemblyInfo.cs
+C:\Users\ehioz\source\repos\Optix\Optix.ServiceDefaults\obj\Debug\net8.0\Optix.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\ehioz\source\repos\Optix\Optix.ServiceDefaults\obj\Debug\net8.0\Optix.ServiceDefaults.sourcelink.json
+C:\Users\ehioz\source\repos\Optix\Optix.ServiceDefaults\obj\Debug\net8.0\Optix.ServiceDefaults.dll
+C:\Users\ehioz\source\repos\Optix\Optix.ServiceDefaults\obj\Debug\net8.0\refint\Optix.ServiceDefaults.dll
+C:\Users\ehioz\source\repos\Optix\Optix.ServiceDefaults\obj\Debug\net8.0\Optix.ServiceDefaults.pdb
+C:\Users\ehioz\source\repos\Optix\Optix.ServiceDefaults\obj\Debug\net8.0\ref\Optix.ServiceDefaults.dll

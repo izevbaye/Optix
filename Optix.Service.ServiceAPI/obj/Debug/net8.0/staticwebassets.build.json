@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8985jAZnNeMyyVSMRyPxeHOHS8rbevz63q9pusB/aJg=",
+  "Source": "Optix.Service.ServiceAPI",
+  "BasePath": "_content/Optix.Service.ServiceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

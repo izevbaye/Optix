@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Optix.Service.ServiceAPI.props" />
+</Project>

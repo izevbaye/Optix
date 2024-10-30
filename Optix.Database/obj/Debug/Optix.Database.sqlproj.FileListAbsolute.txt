@@ -1,0 +1,6 @@
+C:\Users\ehioz\source\repos\Optix\Optix.Database\bin\Debug\Optix.Database.dacpac
+C:\Users\ehioz\source\repos\Optix\Optix.Database\bin\Debug\Optix.Database.dll
+C:\Users\ehioz\source\repos\Optix\Optix.Database\bin\Debug\Optix.Database.pdb
+C:\Users\ehioz\source\repos\Optix\Optix.Database\obj\Debug\Optix.Database.sqlproj.AssemblyReference.cache
+C:\Users\ehioz\source\repos\Optix\Optix.Database\obj\Debug\Optix.Database.dll
+C:\Users\ehioz\source\repos\Optix\Optix.Database\obj\Debug\Optix.Database.pdb

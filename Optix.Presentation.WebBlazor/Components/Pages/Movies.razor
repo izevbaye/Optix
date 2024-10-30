@@ -1,0 +1,49 @@
+﻿@page "/movies"
+@using Optix.Database.DbContext.Tables
+@using Optix.Domain.Library.Interface
+@inject IOpHttpDriver HttpDrivers
+
+<h3>Movies</h3>
+<p>This component demonstrates showing data.</p>
+
+<div class="input-group mb-3">
+    <input type="text" class="form-control textbox-parameters" @bind="Id" placeholder="Enter movie ID" />
+    <button class="btn btn-primary" @onclick="OnChange">Fetch Movie</button>
+</div>
+
+@if (_movies == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <div>Movies loaded successfully!</div>
+    <div>@_movies.Title</div>
+}
+
+@code {
+    private Tbl_Movies _movies;
+
+    // The ID for movie fetching
+    [Parameter] public string? Id { get; set; }
+
+    // Fetch movie data on ID change
+    private async Task OnChange()
+    {
+        if (!string.IsNullOrEmpty(Id))
+        {
+            var uri = new Uri($"https://localhost:7081/api/Movies/GetTheMovie?id={Id}", UriKind.Absolute);
+
+            try
+            {
+                _movies = await HttpDrivers.GetAsync<Tbl_Movies>(uri);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error loading movie: {ex.Message}");
+            }
+
+            StateHasChanged();
+        }
+    }
+}
