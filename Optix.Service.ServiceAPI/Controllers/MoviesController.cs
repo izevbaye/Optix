@@ -13,7 +13,7 @@ namespace Optix.Service.ServiceAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class MoviesController : OpControllerBase
+    public class MoviesController : OpControllerBase  // Add a base controller to ensure global values
     {
         private readonly OptixServiceServiceAPIContext _context;
 
@@ -76,11 +76,11 @@ namespace Optix.Service.ServiceAPI.Controllers
             
             if (searchItem == null)
             {
-                return BadRequest("searchItem is required.");
+                return BadRequest("Pleae NOTE: The searchItem is required !");
             }
-            // Basic input validation
-            if (pageLimit <= 0) pageLimit = 10; // Set a default limit if the input is invalid
-            if (pageNumber <= 0) pageNumber = 1;     // Default to the first page if invalid page number
+            //  Add Page Validation/Defaults
+            if (pageLimit <= 0) pageLimit = 50; 
+            if (pageNumber <= 0) pageNumber = 1;     
 
             // Retrieve data with pagination
             var moviesQuery = _context.Tbl_Movies
